@@ -7,3 +7,4 @@ string="hello world"
 echo $string
 echo "name is $a";
 echo "name is $n";
+echo "this is for git"
