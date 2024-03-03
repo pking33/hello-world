@@ -9,4 +9,4 @@ echo "name is $a";
 echo "name is $n";
 echo "this is for git"
 echo 'now is am on brach new feature'
-echo "test"
+echo "test 1"
