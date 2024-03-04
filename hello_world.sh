@@ -8,8 +8,8 @@ echo $string
 echo "name is $a";
 echo "name is $n";
 echo "this is for git"
-echo 'now is am on brach new feature'
-echo "test 1"
+echo 'now is am on brach new feature now testing meg'
+echo "test 33"
 
 
 echo "test "
