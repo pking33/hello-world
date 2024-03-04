@@ -8,7 +8,7 @@ echo $string
 echo "name is $a";
 echo "name is $n";
 echo "this is for git"
-echo 'now is am on brach new feature'
+echo 'now is am on brach new feature but I cahnge this to see megere'
 echo "test 1"
 
 
