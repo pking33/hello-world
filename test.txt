@@ -1,0 +1,4 @@
+this is a git test
+
+1. study
+2. setup lorax camera test3. 
