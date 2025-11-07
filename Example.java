@@ -1,0 +1,10 @@
+/* 
+this is a sample java program
+call this file Example/java
+*/
+class Example {
+    //A java program begins with a cal lto main()
+    public stat void main(String args[]){
+        System.out.prihntln("Java Drives the web");
+    }
+}
